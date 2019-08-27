@@ -54,7 +54,7 @@ Please feel free to send me [pull requests] or email (k.nguyenthanh@qut.edu.au) 
 
 
 
-## Hottopics
+## Hot research topics
 * Anti-spoofing
 * Adversarial attacks
 * Deep Learning

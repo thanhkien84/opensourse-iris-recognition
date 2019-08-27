@@ -9,7 +9,7 @@ Please feel free to send me [pull requests] or email (k.nguyenthanh@qut.edu.au) 
  - [Fundamentals](#fundamentals)
  - [Books](#books)
  - [Datasets](#datasets)
- - [Courses](#courses)
+ - [Research topics](#Research topics)
  - [Software](#software)
  - [Tutorials and Talks](#tutorials-and-talks)
  - [Resources for students](#resources-for-students)
@@ -57,13 +57,22 @@ Please feel free to send me [pull requests] or email (k.nguyenthanh@qut.edu.au) 
 
 
 
-## Courses
+## Research topics
+* Anti-spoofing
+* Adversarial attacks
+* Deep Learning
 
 
 ## Papers
 
+### 2019
+* [Adversarial Examples to Fool Iris Recognition Systems](http://arxiv.org/abs/1906.09300) - S. Soleymani, A. Dabouei, J. Dawson, N. M. Nasrabadi - \[ICB2019]
+* [Synthesizing Iris Images using RaSGAN with Application in Presentation Attack Detection](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Biometrics/Yadav_Synthesizing_Iris_Images_Using_RaSGAN_With_Application_in_Presentation_Attack_CVPRW_2019_paper.pdf) - S. Yadav, C. Chen, A. Ross - \[CVPRW2019]
+* [Constrained Design of Deep Iris Networks](https://arxiv.org/abs/1905.09481) - K. Nguyen, C. Fookes, S. Sridharan - \[Arxiv]
+
 ### 2018
 
+* [From the Perspective of CNN to Adversarial Iris Images] - Y. Huang, A. Kong, K. Lam - \[BTAS2018]
 * [Iris Recognition After Death](https://arxiv.org/pdf/1804.01962.pdf) - _M. Trokielewicz, A. Czajka, P. Maciejewicz_ - \[Arxiv\] 
 * [The Impact of Preprocessing on Deep Representations for Iris Recognition on Unconstrained Environments](https://arxiv.org/pdf/1808.10032.pdf) - _L. A. Zanlorensi_ - \[Arxiv\] 
 * [Iris Recognition With Off-the-Shelf CNN Features: A Deep Learning Perspective](https://ieeexplore.ieee.org/iel7/6287639/8274985/08219390.pdf) - _K. Nguyen, C. Fookes, A. Ross, S. Sridharan_ - \[IEEE Access\] 

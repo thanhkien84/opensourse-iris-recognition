@@ -19,8 +19,8 @@ Please feel free to send me [pull requests] or email (k.nguyenthanh@qut.edu.au) 
 
 ## Fundamentals
 * How iris recognition works by Prof. John Daugman
-Talk: (https://www.youtube.com/watch?v=KyDoFrojEYk)
-Paper: (https://www.cl.cam.ac.uk/~jgd1000/csvt.pdf)
+*Talk: (https://www.youtube.com/watch?v=KyDoFrojEYk)
+*Paper: (https://www.cl.cam.ac.uk/~jgd1000/csvt.pdf)
 
 
 

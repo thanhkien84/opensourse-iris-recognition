@@ -71,9 +71,9 @@ Please feel free to send me [pull requests] or email (k.nguyenthanh@qut.edu.au) 
 
 ### 2018
 
-* [From the Perspective of CNN to Adversarial Iris Images] - Y. Huang, A. Kong, K. Lam - \[BTAS2018]
+* [From the Perspective of CNN to Adversarial Iris Images](https://ieeexplore.ieee.org/document/8698562) - Y. Huang, A. Kong, K. Lam - \[BTAS2018]
 * [Iris Recognition After Death](https://arxiv.org/pdf/1804.01962.pdf) - _M. Trokielewicz, A. Czajka, P. Maciejewicz_ - \[Arxiv\] 
-* [Exploring the Use of IrisCodes for Presentation Attack Detection] - C. Chen and A. Ross - \[BTAS2018]
+* [Exploring the Use of IrisCodes for Presentation Attack Detection](http://iprobe.cse.msu.edu/project_detail.php?id=17&?title=Exploring_the_Use_of_IrisCodes_for_Presentation_Attack_Detection) - C. Chen and A. Ross - \[BTAS2018]
 * [The Impact of Preprocessing on Deep Representations for Iris Recognition on Unconstrained Environments](https://arxiv.org/pdf/1808.10032.pdf) - _L. A. Zanlorensi_ - \[Arxiv\] 
 * [Iris Recognition With Off-the-Shelf CNN Features: A Deep Learning Perspective](https://ieeexplore.ieee.org/iel7/6287639/8274985/08219390.pdf) - _K. Nguyen, C. Fookes, A. Ross, S. Sridharan_ - \[IEEE Access\] 
 

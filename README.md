@@ -66,7 +66,7 @@ Please feel free to send me [pull requests] or email (k.nguyenthanh@qut.edu.au) 
 * [Defending Against Adversarial Iris Examples Using Wavelet Decomposition](https://arxiv.org/abs/1908.03176) - S. Soleymani, A. Dabouei, J. Dawson, N. M. Nasrabadi - \[BTAS2019]
 * [Adversarial Examples to Fool Iris Recognition Systems](http://arxiv.org/abs/1906.09300) - S. Soleymani, A. Dabouei, J. Dawson, N. M. Nasrabadi - \[ICB2019]
 * [Synthesizing Iris Images using RaSGAN with Application in Presentation Attack Detection](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Biometrics/Yadav_Synthesizing_Iris_Images_Using_RaSGAN_With_Application_in_Presentation_Attack_CVPRW_2019_paper.pdf) - S. Yadav, C. Chen, A. Ross - \[CVPRW2019]
-* [Spoofing PRNU Patterns of Iris Sensors while Preserving Iris Recognition] - S. Banerjee, V. Mirjalili, A. Ross - \[ISBA2019]
+* [Spoofing PRNU Patterns of Iris Sensors while Preserving Iris Recognition](https://arxiv.org/abs/1808.10765) - S. Banerjee, V. Mirjalili, A. Ross - \[ISBA2019]
 * [Constrained Design of Deep Iris Networks](https://arxiv.org/abs/1905.09481) - K. Nguyen, C. Fookes, S. Sridharan - \[Arxiv]
 
 ### 2018

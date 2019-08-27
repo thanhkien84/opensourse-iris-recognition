@@ -9,12 +9,9 @@ Please feel free to send me [pull requests] or email (k.nguyenthanh@qut.edu.au) 
  - [Fundamentals](#fundamentals)
  - [Books](#books)
  - [Datasets](#datasets)
- - [Research topics](#Research topics)
+ - [Hot research topics](#Hot-research-topics)
+ - [Papers](#papers)
  - [Software](#software)
- - [Tutorials and Talks](#tutorials-and-talks)
- - [Resources for students](#resources-for-students)
- - [Blogs](#blogs)
- - [Links](#links)
  
 
 ## Fundamentals
@@ -57,7 +54,7 @@ Please feel free to send me [pull requests] or email (k.nguyenthanh@qut.edu.au) 
 
 
 
-## Research topics
+## Hottopics
 * Anti-spoofing
 * Adversarial attacks
 * Deep Learning
@@ -66,6 +63,7 @@ Please feel free to send me [pull requests] or email (k.nguyenthanh@qut.edu.au) 
 ## Papers
 
 ### 2019
+* [Defending Against Adversarial Iris Examples Using Wavelet Decomposition](https://arxiv.org/abs/1908.03176) - S. Soleymani, A. Dabouei, J. Dawson, N. M. Nasrabadi - \[BTAS2019]
 * [Adversarial Examples to Fool Iris Recognition Systems](http://arxiv.org/abs/1906.09300) - S. Soleymani, A. Dabouei, J. Dawson, N. M. Nasrabadi - \[ICB2019]
 * [Synthesizing Iris Images using RaSGAN with Application in Presentation Attack Detection](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Biometrics/Yadav_Synthesizing_Iris_Images_Using_RaSGAN_With_Application_in_Presentation_Attack_CVPRW_2019_paper.pdf) - S. Yadav, C. Chen, A. Ross - \[CVPRW2019]
 * [Constrained Design of Deep Iris Networks](https://arxiv.org/abs/1905.09481) - K. Nguyen, C. Fookes, S. Sridharan - \[Arxiv]
@@ -96,7 +94,8 @@ Please feel free to send me [pull requests] or email (k.nguyenthanh@qut.edu.au) 
 
 
 
-## Iris open sources
+## Software
+Iris open sources: [Link](https://kiennguyenstuff.wordpress.com/2016/07/14/iris-recognition-open-source-codes/)
 
 
 
